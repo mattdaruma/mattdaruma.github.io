@@ -10,9 +10,9 @@
             "DataUrl": null
         },
         {
-            "Path": "listings",
+            "Path": "friends",
             "Template": "list",
-            "DataUrl": "/assets/pages/listings.json"
+            "DataUrl": "/assets/pages/friends.json"
         },
         {
             "Path": "map",

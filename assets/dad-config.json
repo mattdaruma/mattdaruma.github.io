@@ -9,14 +9,9 @@
             "Display": "Home"
         },
         {
-            "RouterLink": "/listings",
-            "Icon": "list",
-            "Display": "Listings"
-        },
-        {
-            "RouterLink": "/map",
-            "Icon": "map",
-            "Display": "Map"
+            "RouterLink": "/friends",
+            "Icon": "diversity_3",
+            "Display": "Friends"
         },
         {
             "RouterLink": "/contact",
