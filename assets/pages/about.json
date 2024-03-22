@@ -39,13 +39,13 @@
                                 "Title": "Jeff Morris"
                             },
                             "Title": "Jeff Morris",
-                            "Subtitle": "RE/MAX - Trussville, AL"
+                            "Subtitle": "Personal Insight - Sherman Oaks Subdivision"
                         },
                         {
                             "Type": "card-content",
                             "Children": [{
-                                "Type": "view",
-                                "HTML": "<h3>Life-long resident of the Greater Birmingham Area with a history of service to my community. I can't wait to help you!</h3>"
+                                "Type": "text",
+                                "Text": "In 1996 I started a new job with the Trussville Police Department. I had worked since 1987 for Birmingham and Leeds police departments. When I first began patrolling in Trussville, I fell in love with the Sherman Oaks subdivision. It has a beautiful entrance, it's centrally located and has direct access to the Sports Complex with parks and trails. The houses are all beautiful and the streets are quiet. I had the privilege to sell one recently and the new owners love the neighborhood as much as I do!"
                             }]
                         },
                         {
@@ -56,9 +56,9 @@
                             "Children": [
                                 {
                                     "Type": "button",
-                                    "Icon": "person",
-                                    "Display": "About",
-                                    "RouterLink": "/about"
+                                    "Icon": "house",
+                                    "Display": "Home",
+                                    "RouterLink": "/"
                                 },
                                 {
                                     "Type": "button",
